@@ -1,3 +1,1 @@
-git is a xx control system.
-git is free
-ddddd
+hi  zhis is  my  frist .git
